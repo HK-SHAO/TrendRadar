@@ -1,9 +1,14 @@
+XAU-USD
+gold-etf
+美元
 黄金
 纽约金
 黄金9999
 贵金属
 军工
 战争
+冲突
+武装
 
 DeepSeek
 梁文锋
@@ -63,6 +68,8 @@ google
 gemini
 deepmind
 
+sam-altman
+ilya-sutskever
 chatgpt
 openai
 sora
@@ -70,6 +77,7 @@ sora
 claude
 Anthropic
 
+AAPL
 iphone
 ipad
 mac
